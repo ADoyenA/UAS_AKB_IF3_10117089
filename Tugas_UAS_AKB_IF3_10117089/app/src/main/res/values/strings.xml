@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">10117089_IF3_DMA</string>
+
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="waktubuka">Waktu Buka</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="submit">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
